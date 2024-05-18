@@ -7,6 +7,7 @@ Construir um Ecommerce com interface agradável, que tenha integração com algu
 
 - Utilizar componentes funcionais e no mínimo 2 Hooks
 - Utilizar Context
+- Carrinho de Compras
 - Em algum momento no fluxo de compra, o login deve ser exigido;
 - Deve possuir pelo menos 5 Componentes;
 - Deve possuir pelo menos 5 rotas utilizando o React Router v6;
