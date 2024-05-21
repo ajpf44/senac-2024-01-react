@@ -11,16 +11,19 @@ let idade: number = 33
 
 //Tipagem de Funções
 
-function somar(num1: number, num2:number): number {
+function somar(num1:number, num2:number): number {
     return num1 + num2;
 }
 
 const pessoa: Pessoa = {
     name: "joão",
-    idade: 33
+    idade: 33,
+    func: () => somar
 }
 
 type Pessoa = {
     name: string,
-    idade: number
-}
+    idade: number,
+    func: () => {(num1:number, num2:number): number}
+ }
+
