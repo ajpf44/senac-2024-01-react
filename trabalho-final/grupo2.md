@@ -1,0 +1,2 @@
+- Link do site: https://vendas-vader.web.app/
+- Link do repositório: https://github.com/ajpf44/VendasVaderSiteReact
